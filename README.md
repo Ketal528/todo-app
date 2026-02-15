@@ -22,6 +22,7 @@ Features:
 - Fully responsive design
 
 Author : Ketal Sutariya
+
 Live Demo: https://ketal528.github.io/todo-app/
 
 Responsive Design:
